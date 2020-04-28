@@ -1,3 +1,9 @@
-#box {
-    border: solid;
+body {
+    background-color: hotpink;
+    font-family: 'Lora', serif;
+}
+
+#gray {
+    color: #D3D3D3;
+    font-size: 0.6em;
 }
